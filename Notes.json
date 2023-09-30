@@ -1,18 +1,21 @@
 {
-  "notes": [
+  "mynotes": [
     {
-      "firstName": "arvind",
-      "lastName": "varma",
-      "email": "arvindcomputer7@gmail.com",
-      "password": "12345678",
+      "groupName": "html",
+      "groupColor": "red",
       "id": 1
     },
     {
-      "id": 3,
-      "firstName": "vikasj",
-      "lastName": "varma",
-      "email": "arvindcomputer7@gmail.com",
-      "password": "12345678"
+      "groupName": "html",
+      "groupColor": "red",
+      "id": 2
+    },
+    {
+      "groupName": "html",
+      "groupColor": "red",
+      "id": 3
     }
-  ]
+  ],
+  "groupNotes": [],
+  "groups": []
 }
