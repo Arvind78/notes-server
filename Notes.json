@@ -1,0 +1,18 @@
+{
+  "notes": [
+    {
+      "firstName": "arvind",
+      "lastName": "varma",
+      "email": "arvindcomputer7@gmail.com",
+      "password": "12345678",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "firstName": "vikasj",
+      "lastName": "varma",
+      "email": "arvindcomputer7@gmail.com",
+      "password": "12345678"
+    }
+  ]
+}
