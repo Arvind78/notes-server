@@ -37,16 +37,11 @@ This project serves as a backend server for managing notes and groups of notes. 
 
 ## Endpoints
 
-- **GET /myNotes**: Retrieves all the notes.
 - **GET /groupNotes**: Retrieves all the grouped notes.
 - **GET /groups**: Retrieves all the groups.
-- **POST /myNotes**: Allows you to create a new note.
 - **POST /groupNotes**: Allows you to create a new group of notes.
-- **PUT /myNotes/:id**: Allows you to update a specific note by its ID.
-- **PUT /groupNotes/:id**: Allows you to update a specific group of notes by its ID.
-- **DELETE /myNotes/:id**: Allows you to delete a specific note by its ID.
-- **DELETE /groupNotes/:id**: Allows you to delete a specific group of notes by its ID.
-
+- **GET /groupNotes?groups=groupsName**: Allows you to create a new group of notes.
+   
 ## File Structure
 
 The file structure of this project is as follows:
