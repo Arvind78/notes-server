@@ -1,21 +1,5 @@
 {
-  "mynotes": [
-    {
-      "groupName": "html",
-      "groupColor": "red",
-      "id": 1
-    },
-    {
-      "groupName": "html",
-      "groupColor": "red",
-      "id": 2
-    },
-    {
-      "groupName": "html",
-      "groupColor": "red",
-      "id": 3
-    }
-  ],
+  "myNotes": [],
   "groupNotes": [],
   "groups": []
 }
