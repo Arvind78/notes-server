@@ -37,7 +37,7 @@ This project serves as a backend server for managing notes and groups of notes. 
 
 ## Endpoints
 
-- **GET /groupNotes**: Retrieves all the grouped notes.
+- **POST /group**: Retrieves all the grouped notes.
 - **GET /groups**: Retrieves all the groups.
 - **POST /groupNotes**: Allows you to create a new group of notes.
 - **GET /groupNotes?groups=groupsName**: Allows you to create a new group of notes.
